@@ -1,0 +1,27 @@
+h1{
+  color: blue;
+  font-family: helvetica;
+  border: 5px solid salmon;
+  padding: 50px;
+
+}
+
+p{
+  color: purple;
+  background-color: lightpink;
+}
+
+h2{
+  color: maroon;
+}
+
+body{
+  background-color: lightyellow;
+}
+
+img{
+  border:5px solid salmon;
+  width:25%;
+  height:25%;
+  margin-left:100px;
+}
